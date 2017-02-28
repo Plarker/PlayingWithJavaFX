@@ -1,4 +1,4 @@
-package sample;
+package main;
 
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
@@ -12,7 +12,7 @@ import java.io.IOException;
 /**
  * Created by parker on 2/28/17.
  */
-public class SceneController2 {
+public class SceneController1 {
     @FXML
     private Button button;
     private Stage stage;
