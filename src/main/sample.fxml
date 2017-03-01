@@ -14,7 +14,7 @@
     <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
   </rowConstraints>
    <children>
-      <Button fx:id="button1" mnemonicParsing="false" onAction="#handleButtonClick1" text="Menu 1" GridPane.halignment="CENTER" GridPane.valignment="CENTER" />
+      <Button fx:id="button1" mnemonicParsing="false" onAction="#handleButtonClick1" text="Tip Calculator" GridPane.halignment="CENTER" GridPane.valignment="CENTER" />
       <Button fx:id="button2" mnemonicParsing="false" onAction="#handleButtonClick2" text="Menu 2" GridPane.columnIndex="1" GridPane.halignment="CENTER" GridPane.valignment="CENTER" />
    </children>
 </GridPane>

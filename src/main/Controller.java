@@ -17,7 +17,7 @@ public class Controller {
     private Parent root;
 
     public void handleButtonClick1() throws IOException{
-        changeScene("scene1.fxml","Scene 1");
+        changeScene("scene1.fxml","Tip Calculator");
 
     }
 
